@@ -7,3 +7,4 @@ El repositorio está ordenado por temática, en función de los indicadores pres
 
  - `Indicadores EOD 2009`: realización de mapas de cantidad de viajes por motivo y por modo, y mapas bivariados;
  - `r5r - tiempos de viaje y accesibilidad`: cálculo de tiempos de viaje y oportunidades acumuladas a hospitales públicos en la Ciudad de Córdoba, junto con gráficos y mapas de la distribución de los indicadores;
+ - `Datos`: bases de datos utilizadas.
