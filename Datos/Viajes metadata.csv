@@ -1,0 +1,47 @@
+﻿Identificador,Descripción,Metodología
+Zona,Número de zona según EOD 2009 dentro del ejido de la Ciudad de Córdoba,Unión de polígonos de radios censales en función de los límites definidos en informe EOD 2009 (De Beláustegui, 2009)
+V_total_M,Cantidad total de viajes para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_avg_M,Cantidad promedio de viajes para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_total_F,Cantidad total de viajes para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_avg_F,Cantidad promedio de viajes para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_total,Cantidad total de viajes,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Otro_M,Cantidad de viajes en modo Otro para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Bus_M,Cantidad de viajes en modo Colectivo/Trolebús para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Auto_M,Cantidad de viajes en modo Auto para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Tx_M,Cantidad de viajes en modo Taxi/Remis para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Bc_M,Cantidad de viajes en modo Bicicleta para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Mt_M,Cantidad de viajes en modo Moto/Ciclomotor para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Peat_M,Cantidad de viajes en modo A pie para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Mult_M,Cantidad de etapas en modo Multimodal para sexo = Hombres,Tabla cruzada en SPSS según base de datos Etapas
+V_Md_TE_M,Cantidad de viajes en modo Charter/Transp.Especial para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_total_M,Cantidad total de viajes en todos los modos para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Otro_F,Cantidad de viajes en modo Otro para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Bus_F,Cantidad de viajes en modo Colectivo/Trolebús para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Auto_F,Cantidad de viajes en modo Auto para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Tx_F,Cantidad de viajes en modo Taxi/Remis para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Bc_F,Cantidad de viajes en modo Bicicleta para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Mt_F,Cantidad de viajes en modo Moto/Ciclomotor para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Peat_F,Cantidad de viajes en modo A pie para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_Mult_F,Cantidad de etapas en modo Multimodal para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Etapas
+V_Md_TE_F,Cantidad de viajes en modo Charter/Transp.Especial para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Md_total_F,Cantidad de viajes en todos los modos para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_H_M,Cantidad de viajes por motivo Hogar para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_T_M,Cantidad de viajes por motivo Trabajo para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_E_M,Cantidad de viajes por motivo Estudio para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_MC_M,Cantidad de viajes por motivo Movilidad del Cuidado para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Esp_M,Cantidad de viajes por motivo Esparcimiento para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Soc_M,Cantidad de viajes por motivo Social para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Sal_M,Cantidad de viajes por motivo Salud para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Ot_M,Cantidad de viajes por motivo Otro para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Total_M,Cantidad total de viajes por todos los motivos para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_H_F,Cantidad de viajes por motivo Hogar para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_T_F,Cantidad de viajes por motivo Trabajo para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_E_F,Cantidad de viajes por motivo Estudio para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_MC_F,Cantidad de viajes por motivo Movilidad del Cuidado para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Esp_F,Cantidad de viajes por motivo Esparcimiento para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Soc_F,Cantidad de viajes por motivo Social para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Sal_F,Cantidad de viajes por motivo Salud para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Ot_F,Cantidad de viajes por motivo Otro para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_Mt_Total_F,Cantidad total de viajes por todos los motivos para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
+V_AvgTP_M,Tiempo de viaje percibido promedio para sexo = Hombres,Tabla cruzada en SPSS según base de datos Viajes
+V_AvgTP_F,Tiempo de viaje percibido promedio para sexo = Mujeres,Tabla cruzada en SPSS según base de datos Viajes
