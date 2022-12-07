@@ -4,7 +4,7 @@
 
 ### Maestría en Ciencias de la Ingeniería, Mención en Transporte - FCEFyN - UNC
 
-Este repositorio contiene los códigos y bases de datos utilizadas en `R` para la tesis de maestría: "Metodología para evaluar aspectos sociales del transporte público a través de indicadores de accesibilidad: aplicación en la Ciudad de Córdoba.", además de una copia realizada para este repositorio de la versión final del [texto de la tesis](https://github.com/LucilaMartinazzo/Tesis-de-Maestria/blob/main/Metodolog%C3%ADa%20para%20evaluar%20aspectos%20sociales%20del%20transporte%20p%C3%BAblico%20a%20trav%C3%A9s%20de%20indicadores%20de%20accesibilidad%20-%20aplicaci%C3%B3n%20en%20la%20Ciudad%20de%20C%C3%B3rdoba.pdf).
+Este repositorio contiene parte de los códigos y bases de datos utilizadas en `R` para la tesis de maestría: "Metodología para evaluar aspectos sociales del transporte público a través de indicadores de accesibilidad: aplicación en la Ciudad de Córdoba.", además de una copia realizada para este repositorio de la versión final del [texto de la tesis](https://github.com/LucilaMartinazzo/Tesis-de-Maestria/blob/main/Metodolog%C3%ADa%20para%20evaluar%20aspectos%20sociales%20del%20transporte%20p%C3%BAblico%20a%20trav%C3%A9s%20de%20indicadores%20de%20accesibilidad%20-%20aplicaci%C3%B3n%20en%20la%20Ciudad%20de%20C%C3%B3rdoba.pdf).
 
 ## Organización del repositorio
 El repositorio está ordenado por temática, en función de los indicadores presentados en la metodología propuesta en el trabajo:
