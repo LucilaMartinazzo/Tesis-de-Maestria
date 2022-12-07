@@ -1,4 +1,4 @@
-<img align="right" src="UNC.png" alt="UNC" width="100">
+<img align="right" src="UNC.png" alt="UNC" width="120">
 
 # Ing. Lucila Martinazzo - Tesis de Maestría
 
