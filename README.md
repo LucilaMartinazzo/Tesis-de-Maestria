@@ -16,8 +16,8 @@ El repositorio está ordenado por temática, en función de los indicadores pres
 
 ## Cita
 El presente trabajo forma parte de las actividades realizadas en el marco de una beca de maestría otorgada a la Ing. Lucila Martinazzo (https://orcid.org/0000-0002-8991-1382) por la Secretaría de Ciencia y Tecnología de la Universidad Nacional de Córdoba.
-Si utiliza contenido de este repositorio, por favor utilice la siguiente cita:
-- Martinazzo, L. (2022) _Metodología para evaluar aspectos sociales del transporte público a través de indicadores de accesibilidad: aplicación en la Ciudad de Córdoba._ Tesis de maestría. Universidad Nacional de Córdoba. Facultad de Ciencias Exactas, Físicas y Naturales; Argentina.
+Si utiliza contenido de este repositorio, por favor cítelo de la siguiente manera:
+- Martinazzo, L. (2022) _Metodología para evaluar aspectos sociales del transporte público a través de indicadores de accesibilidad: aplicación en la Ciudad de Córdoba_ [Tesis de maestría]. Universidad Nacional de Córdoba, Facultad de Ciencias Exactas, Físicas y Naturales.
 
 ## Publicaciones previas
 -	Martinazzo, L. (2020) _Metodología para la evaluación cuantitativa de la movilidad sustentable en su dimensión social: aplicación al caso de la ciudad de Córdoba._ Formato póster. Jornada de Becarias y Becarios SeCyT-UNC: Desafíos y perspectivas en la producción de conocimiento en contextos de crisis. Disponible en https://www.unc.edu.ar/sites/default/files/Copia%20de%20P%C3%B3ster%20I%20Jornadas%20de%20Becarias%20y%20Becarios%20de%20SeCyT-UNC%20-%20Martinazzo%20-%20Lucila%20Martinazzo.ppt 
